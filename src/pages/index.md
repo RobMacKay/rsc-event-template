@@ -8,7 +8,6 @@ mainpitch:
   title: Supporting Ukraine
   description: Small music Festival to raise much needed funds for victims of
     Present Putin and his madness.
-description: "123"
 intro:
   blurbs: []
   heading: "123"
@@ -29,4 +28,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: "1234"
 ---
